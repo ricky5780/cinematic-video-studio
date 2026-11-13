@@ -1,0 +1,32 @@
+{
+  "version": "1.1.0",
+  "files": {
+    ".github/workflows/test.yml": "3a2c95d3de3dc6a935ae36def0fecca1eda611c73da44b945483d6d49118585e",
+    ".gitignore": "c93d465d70ceba2dc6a97c53c668cb24c2e150c0e9bd0c06138bbaaeb12b396a",
+    "CHANGELOG.md": "a73e5e6f232f4e9463109577ed2955a2f34868b6c0c6eb9743de72077681b26e",
+    "CONTRIBUTING.md": "83ad44beb554e9c4ab7fade634f7cc382533fd60dae19d13873fa0267967f39f",
+    "LICENSE": "e7b1f05abee70a96caed282105e2f885125f572ed82d8303e9b2e04aef03032c",
+    "README.en.md": "dcae92d19f00393c35905fb412e243966fcdad650cb4b6e2c1835d85a6c5385f",
+    "README.md": "6ce346cd8689c8968620ad402f87a23eba2fae164c21f7d7cb5319135bb1a289",
+    "SECURITY.md": "de83423da3b04ea38b6d4771c231512e2bef801fa8cdf87612f2ab4d84f20641",
+    "SKILL.md": "b8af5256709b3c530e0d4bc8d0205eac54baa7cf19fc7ff19741d603106edde5",
+    "VERSION": "1575e1af4a95f12f70b4ee6a6adce8160953d93ea17dc2611b90883ccc3ad3b8",
+    "agents/openai.yaml": "8b3c9f2a82d1def359dd4ed627893de37190fb35b4eaf084f2e780d6e1827800",
+    "docs/BEHAVIOR_CASES.json": "207153f62dfe05ec1ee28b2a143819c5e57d104c5b614e8c04b70f78562e9fcb",
+    "docs/PUBLISHING.md": "03cc792b84f0a5a361cfa2a8193930d2812cd0c0f69b0a46d55a32072bb8454b",
+    "docs/TEST_RESULTS.txt": "65f92df16fe3a5e3738d9a7be36532fd5926f08069bbae054e423547e4ee530e",
+    "docs/VALIDATION.md": "d09bb040f5f38c909b81030e4e9e8c10a8d7efbc9e2f122042b44b5c63553301",
+    "install.py": "c3239ad2871968378b49d083af1d882aede656acf016cbf4e8546641e8ae385d",
+    "publish.py": "e8e923a7cba12b01fa72dbce0ce6ccf550f62fe57fb6c738147acbf4ce0528f5",
+    "references/production.md": "901257a5a3d759ef25e7abfd95bfe33460314bf094e688da8c6b90137e72eef5",
+    "references/quality.md": "5e3b285b25d8f596784ddb8ac2e2d4acd7c38ac4d01007f6e1798692ade9d13f",
+    "scripts/doctor.py": "d02132217aef12849729a79a462f04271dba274fca54e644e62308ddbc1267f2",
+    "scripts/project_state.py": "74ceb23262ab9d464365d4630320f03849ed280bd9e98062ba81dc1f499e14a2",
+    "scripts/video_audit.py": "22ee9117a9e0ca3d27eed30fa0ac561373d9584ab538e8dc6027e66351ac6bb2",
+    "templates/STYLE_LOCK.md": "07f2b964f83b38c8bcf12b0109037ec12327d2e97f732de9e975689e963bb765",
+    "templates/delivery-spec.json": "e52d2cfe75a2aa68a8316ad134ec3474afa36adb0a3fe160cd4ae166c531714d",
+    "tests/test_project_and_install.py": "fc3bb649c68967c577f27525e672df6dfa1c11fbed5c3b2b759e5fbed4132e70",
+    "tests/test_publish_safety.py": "bff3251a867c3ca4740a383ffe1b5dfff8c0a9264e10dad20ea427390cbf8186",
+    "tests/test_video_audit.py": "73e48dd234f8b46455eed8d5d399e8df97ce7f2a658c1d3c71294f05a24e20cb"
+  }
+}

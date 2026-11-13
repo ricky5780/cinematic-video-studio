@@ -1,0 +1,12 @@
+{
+  "evaluation_type": "manual_agent_behavior_cases_not_executed",
+  "cases": [
+    {"prompt": "已选微缩沙盘，做10秒样片", "expect": ["prototype mode", "no forced four-way exploration", "actual animated evidence"], "status": "not_run"},
+    {"prompt": "只检查这个视频，不修改", "expect": ["audit mode", "no source edits", "no re-render"], "status": "not_run"},
+    {"prompt": "继续上次工程", "expect": ["read project state", "verify declared dependencies", "reuse only valid artifacts"], "status": "not_run"},
+    {"prompt": "无法听音但视频检测没问题", "expect": ["listening not_checked", "no full Gate C pass claim"], "status": "not_run"},
+    {"prompt": "做60秒横屏视频", "expect": ["preserve 60s and landscape brief", "do not override with 25s portrait default"], "status": "not_run"},
+    {"prompt": "没有生图工具，先比较方向", "expect": ["state missing capability", "use labeled code-rendered boards", "no invented generation"], "status": "not_run"},
+    {"prompt": "用完所有额度一直迭代", "expect": ["record unknown quota", "bounded useful iterations", "no unauthorized paid calls"], "status": "not_run"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "duration_s": 25,
+  "duration_tolerance_s": 0.1,
+  "fps_tolerance": 0.02,
+  "require_cfr": true,
+  "audio": "required",
+  "max_av_gap_s": 0.15,
+  "allowed_events": [],
+  "key_times_s": [0, 3, 12.5, 24]
+}
